@@ -1,12 +1,35 @@
-## Hi there 👋
+# Jayzie.Dev
 
-<!--
+We build custom scripts for **FiveM** and **Minecraft** — focused on performance, clean code, and real server needs.
 
-**Here are some ideas to get you started:**
+No bloated features.  
+No copy-paste junk.  
+Just scripts that actually work in production servers.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What We Do
+- FiveM scripts (ESX / QBCore / custom frameworks)
+- Minecraft plugins & systems
+- Custom features based on your server concept
+- Optimization & refactoring existing scripts
+
+We care about:
+- Stability over gimmicks
+- Readable, maintainable code
+- Easy integration into live servers
+
+## Why Jayzie.Dev
+Most scripts fail after a few weeks because they’re rushed or over-engineered.  
+We take a different approach — build only what’s needed, test it properly, and keep it scalable.
+
+If your server grows, the script shouldn’t break.
+
+## Repositories
+Some repositories here are public demos or internal tools.  
+Production scripts may stay private or limited.
+
+## Contact
+Discord is the fastest way to reach us:  
+👉 https://discord.gg/PdU8Pj7f39
+
+If you know what you want, we can build it.  
+If you don’t, we’ll help you figure it out.
